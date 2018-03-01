@@ -1,0 +1,995 @@
+[
+  {
+    "name": "alias",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates an alias of something is to be created"
+  },
+  {
+    "name": "all-scroll",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that something can be scrolled in any direction"
+  },
+  {
+    "name": "auto",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Default. The browser sets a cursor"
+  },
+  {
+    "name": "cell",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that a cell (or set of cells) may be selected"
+  },
+  {
+    "name": "context-menu",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 5
+      },
+      {
+        "firefox": 4
+      },
+      {
+        "safari": 5
+      },
+      {
+        "opera": 10
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates that a context-menu is available"
+  },
+  {
+    "name": "col-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that the column can be resized horizontally"
+  },
+  {
+    "name": "copy",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates something is to be copied"
+  },
+  {
+    "name": "crosshair",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor render as a crosshair"
+  },
+  {
+    "name": "default",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The default cursor"
+  },
+  {
+    "name": "e-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved right (east)"
+  },
+  {
+    "name": "ew-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Indicates a bidirectional resize cursor"
+  },
+  {
+    "name": "grab",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 2
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 2
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 0
+      },
+      {
+        "edge": 0
+      }
+    ],
+    "prefixes": ["-webkit"],
+    "description": "The cursor indicates that something can be grabbed"
+  },
+  {
+    "name": "grabbing",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 2
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 2
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 0
+      },
+      {
+        "edge": 0
+      }
+    ],
+    "prefixes": ["-webkit"],
+    "description": "The cursor indicates that something can be grabbed"
+  },
+  {
+    "name": "help",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates that help is available"
+  },
+  {
+    "name": "inherit",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Inherits this property from its parent element"
+  },
+  {
+    "name": "initial",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Sets this property to its default value"
+  },
+  {
+    "name": "move",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates something is to be moved"
+  },
+  {
+    "name": "n-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved up (north)"
+  },
+  {
+    "name": "ne-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved up and right (north/east)"
+  },
+  {
+    "name": "nesw-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Indicates a bidirectional resize cursor"
+  },
+  {
+    "name": "ns-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Indicates a bidirectional resize cursor"
+  },
+  {
+    "name": "nw-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved up and left (north/west)"
+  },
+  {
+    "name": "nwse-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "Indicates a bidirectional resize cursor"
+  },
+  {
+    "name": "no-drop",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that the dragged item cannot be dropped here"
+  },
+  {
+    "name": "none",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 0
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "No cursor is rendered for the element"
+  },
+  {
+    "name": "not-allowed",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that the requested action will not be executed"
+  },
+  {
+    "name": "pointer",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor is a pointer and indicates a link"
+  },
+  {
+    "name": "progress",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates that the program is busy (in progress)"
+  },
+  {
+    "name": "row-resize",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates that the row can be resized vertically"
+  },
+  {
+    "name": "s-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved down (south)"
+  },
+  {
+    "name": "se-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved down and right (south/east)"
+  },
+  {
+    "name": "sw-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved down and left (south/west)"
+  },
+  {
+    "name": "text",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates text that may be selected"
+  },
+  {
+    "name": "url",
+    "code": "cursor: url(./custom.cur);",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "A comma separated list of URLs to custom cursors"
+  },
+  {
+    "name": "vertical-text",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates vertical-text that may be selected"
+  },
+  {
+    "name": "w-resize",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description":
+      "The cursor indicates that an edge of a box is to be moved left (west)"
+  },
+  {
+    "name": "wait",
+    "version": 2,
+    "browsers": [
+      {
+        "chrome": 1
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 1
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 1
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "description": "The cursor indicates that the program is busy"
+  },
+  {
+    "name": "zoom-in",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 2
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 2
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 0
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "prefixes": ["-webkit"],
+    "description": "The cursor indicates that something can be zoomed in"
+  },
+  {
+    "name": "zoom-out",
+    "version": 3,
+    "browsers": [
+      {
+        "chrome": 2
+      },
+      {
+        "firefox": 1
+      },
+      {
+        "safari": 2
+      },
+      {
+        "opera": 1
+      },
+      {
+        "ie": 0
+      },
+      {
+        "edge": 1
+      }
+    ],
+    "prefixes": ["-webkit"],
+    "description": "The cursor indicates that something can be zoomed out"
+  }
+]

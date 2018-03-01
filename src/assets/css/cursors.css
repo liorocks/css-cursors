@@ -1,0 +1,151 @@
+.cursor-type-alias {
+  cursor: alias;
+}
+
+.cursor-type-all-scroll {
+  cursor: all-scroll;
+}
+
+.cursor-type-auto {
+  cursor: auto;
+}
+
+.cursor-type-cell {
+  cursor: cell;
+}
+
+.cursor-type-context-menu {
+  cursor: context-menu;
+}
+
+.cursor-type-col-resize {
+  cursor: col-resize;
+}
+
+.cursor-type-copy {
+  cursor: copy;
+}
+
+.cursor-type-crosshair {
+  cursor: crosshair;
+}
+
+.cursor-type-default {
+  cursor: default;
+}
+
+.cursor-type-e-resize {
+  cursor: e-resize;
+}
+
+.cursor-type-ew-resize {
+  cursor: ew-resize;
+}
+
+.cursor-type-grab {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.cursor-type-grabbing {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+
+.cursor-type-help {
+  cursor: help;
+}
+
+.cursor-type-move {
+  cursor: move;
+}
+
+.cursor-type-n-resize {
+  cursor: n-resize;
+}
+
+.cursor-type-ne-resize {
+  cursor: ne-resize;
+}
+
+.cursor-type-nesw-resize {
+  cursor: nesw-resize;
+}
+
+.cursor-type-ns-resize {
+  cursor: ns-resize;
+}
+
+.cursor-type-nw-resize {
+  cursor: nw-resize;
+}
+
+.cursor-type-nwse-resize {
+  cursor: nwse-resize;
+}
+
+.cursor-type-no-drop {
+  cursor: no-drop;
+}
+
+.cursor-type-none {
+  cursor: none;
+}
+
+.cursor-type-not-allowed {
+  cursor: not-allowed;
+}
+
+.cursor-type-pointer {
+  cursor: pointer;
+}
+
+.cursor-type-progress {
+  cursor: progress;
+}
+
+.cursor-type-row-resize {
+  cursor: row-resize;
+}
+
+.cursor-type-s-resize {
+  cursor: s-resize;
+}
+
+.cursor-type-se-resize {
+  cursor: se-resize;
+}
+
+.cursor-type-sw-resize {
+  cursor: sw-resize;
+}
+
+.cursor-type-text {
+  cursor: text;
+}
+
+.cursor-type-url {
+  cursor: url('../images/poop.png'), default;
+}
+
+.cursor-type-vertical-text {
+  cursor: vertical-text;
+}
+
+.cursor-type-w-resize {
+  cursor: w-resize;
+}
+
+.cursor-type-wait {
+  cursor: wait;
+}
+
+.cursor-type-zoom-in {
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
+.cursor-type-zoom-out {
+  cursor: -webkit-zoom-out;
+  cursor: zoom-out;
+}
