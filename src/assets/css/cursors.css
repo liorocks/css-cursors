@@ -125,7 +125,7 @@
 }
 
 .cursor-type-url {
-  cursor: url('../images/poop.png'), default;
+  cursor: url('../images/poop.png') 19 4, default;
 }
 
 .cursor-type-vertical-text {
